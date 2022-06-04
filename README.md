@@ -17,7 +17,7 @@ After reviewing the entire original scirpt, I determined that it was fairly effi
 ![2018_refactor_0609375](https://github.com/BryantKlewer/stock-analysis/blob/main/Resources/2018_refactor_0609375.png)
 
 ### Stock Performance
-- What we can see in the 2017 stock analysis is that 11 of the 12 total stocks reviewed posted gains for the year. These gains ranged from 5.5% to 199.4%. Only TERP realized a loss of 7.2% for 2017. ___2017___ On the other hand, only 1/6th of stocks posted gains in 2018, they were ENPH (81.9%) and RUN (84.0%). Losses in 2018 amongst the remaining 10 stocks ranged from 3.5% to 62.6%. ___2018___ We are able to determine from this data that the Green energy sector can be volitile with large gains and losses. 
+- What we can see in the 2017 stock analysis is that 11 of the 12 total stocks reviewed posted gains for the year. These gains ranged from 5.5% to 199.4%. Only TERP realized a loss of 7.2% for 2017. ![2017_stocks](https://github.com/BryantKlewer/stock-analysis/blob/main/Resources/2017_stocks.png) On the other hand, only 1/6th of stocks posted gains in 2018, they were ENPH (81.9%) and RUN (84.0%). Losses in 2018 amongst the remaining 10 stocks ranged from 3.5% to 62.6%. ___2018___ We are able to determine from this data that the Green energy sector can be volitile with large gains and losses. 
 
 ## Summary
 
